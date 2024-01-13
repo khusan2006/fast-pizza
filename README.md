@@ -1,4 +1,4 @@
-<div align='center'><div width="100px">🍕</div></div>
+<div align='center'><img src="https://www.flaticon.com/ru/free-icon/pizza-slices_6389521?term=pizza&page=1&position=6&origin=search&related_id=6389521" ></div>
 
 <h2>Description</h2>
 
