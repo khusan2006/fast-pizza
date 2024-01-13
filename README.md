@@ -1,4 +1,4 @@
-<div align='center'><img src="pizza.png" ></div>
+<div align='center'><img heigth='50px' src="pizza.png" ></div>
 
 <h2>Description</h2>
 
